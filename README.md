@@ -8,35 +8,13 @@
 
 <p align="center">
   <a href="https://github.com/CheefLofter">GitHub</a> •
-  <a href="#stack">Stack</a> •
   <a href="#case-files">Case Files</a> •
   <a href="#contact">Contact</a>
 </p>
 
 ---
 
-## About
 
-- **Designation:** CheefLofter
-- **Track:** Student — transitioning from web development into cyber security
-- **Focus:** App security · Secure tooling · Defensive fundamentals
-- **Approach:** Learning by building — shipping small real tools first, layering in security-specific practice as the fundamentals solidify.
-
----
-
-## Stack
-
-| Tool | Role |
-|---|---|
-| Python | Scripting / tooling |
-| Go | Backend services |
-| Flask | Python web apps |
-| Next.js | Frontend framework |
-| HTML5 | Markup |
-| CSS3 | Styling |
-| NPM | Package tooling |
-
----
 
 ## Case Files
 
