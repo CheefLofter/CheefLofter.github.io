@@ -18,7 +18,7 @@
 
 ## Case Files
 
-### 01 · [FileFlow](https://github.com/CheefLofter/FileFlow)
+### 01 · [KleenParcel](https://github.com/CheefLofter/KleenParcel)
 A zero-knowledge file sharing tool built to share files securely — the server shouldn't be able to read what it's storing.
 `zero-knowledge` `secure sharing` `HTML`
 
